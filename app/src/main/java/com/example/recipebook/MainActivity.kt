@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    RecipeApp() //calls RecipeApp in RecipeStartScreen.kt
+                    RecipeApp() //calls RecipeApp in RecipeBook.kt
                 }
             }
         }
